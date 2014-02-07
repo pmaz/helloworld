@@ -1,0 +1,2 @@
+My sample text file.
+Testing the adding of a file to git hub.
